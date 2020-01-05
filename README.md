@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+생활코딩 인프런 강의수강,
+
+리액트의 기초를 배우고 연습하는 용도.
+
 
 ## Available Scripts
 
